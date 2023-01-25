@@ -3,7 +3,7 @@ import "./style.css";
 import twitter from "./../assets/twitter.png";
 import facebook from "./../assets/facebook.png";
 import instagram from "./../assets/instagram.png";
-import github from "./../assets/github.png";
+import github from "./../assets/gitHub.png";
 
 const Footer = () => {
 	return (
